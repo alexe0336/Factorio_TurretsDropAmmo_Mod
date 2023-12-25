@@ -6,4 +6,5 @@
     "contact": "alexe0336@gmail.com",
     "homepage": "https://github.com/alexe0336/Factorio_TurretsDropAmmo_Mod",
     "description": "Turrets Drop Ammo when destroyed either by user or enemies",
+    "factorio_version": "1.1"
   }
