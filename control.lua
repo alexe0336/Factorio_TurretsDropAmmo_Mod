@@ -1,4 +1,3 @@
-/* Control.lua */
 script.on_event(defines.events.on_entity_died, function(event)
     local entity = event.entity
     if entity and entity.valid and entity.type == "turret" then
