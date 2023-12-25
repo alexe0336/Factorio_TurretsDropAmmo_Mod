@@ -1,0 +1,9 @@
+{
+    "name": "Turrets Drop Ammo Mod",
+    "version": "0.0.1",
+    "title": "Turrets Drop Ammo",
+    "author": "Alexe0336",
+    "contact": "alexe0336@gmail.com",
+    "homepage": "https://github.com/alexe0336/Factorio_TurretsDropAmmo_Mod",
+    "description": "Turrets Drop Ammo when destroyed either by user or enemies",
+  }
