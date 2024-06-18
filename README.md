@@ -15,8 +15,7 @@ The Factorio TurretsDropAmmo Mod enhances your gameplay by ensuring that you don
 To install the Factorio TurretsDropAmmo Mod, follow these steps:
 
 1. **Download the Mod**:
-   - Visit the [Factorio Mods Portal](https://mods.factorio.com/) and search for "TurretsDropAmmo Mod".
-   - Download the mod file.
+   - Download the mod file from this Github.
 
 2. **Install the Mod**:
    - Locate your Factorio mods directory. This is typically found in the Factorio installation folder under `/mods`.
