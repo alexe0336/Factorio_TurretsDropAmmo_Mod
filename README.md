@@ -31,7 +31,7 @@ Once the mod is installed and activated, it will automatically work during your 
 
 ## Feedback and Contributions
 
-I welcome feedback and contributions to improve this mod! If you have suggestions or find any issues, please reach out or submit a pull request on the [GitHub repository](https://github.com/alexe0336/Factorio-TurretsDropAmmo-Mod).
+I welcome feedback and contributions to improve this mod! If you have suggestions or find any issues, please reach out or submit a pull request on the [GitHub repository](https://github.com/alexe0336/TurretsDropAmmo_0.0.1/tree/main).
 
 ## Contact
 
